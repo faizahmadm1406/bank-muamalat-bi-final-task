@@ -32,7 +32,7 @@ Studi kasus analisis penjualan **PT Sejahtera Bersama** periode Januari 2020 –
 - 57% pelanggan aktif hanya membeli produk murah → peluang upsell dan bundling.
 
 ## Dashboard
-Looker Studio: _(tempel link dashboard di sini)_
+Looker Studio: https://datastudio.google.com/reporting/efd6728e-e18c-4e25-9bf8-e5d91902bfa8
 
 ## Rekomendasi
 1. Upsell bertahap dari produk murah ke Kit lalu Robot/Drone.
